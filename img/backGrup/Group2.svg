@@ -1,0 +1,31 @@
+<svg width="3153" height="2366" viewBox="0 0 3153 2366" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_f_256_671)">
+<rect x="2574" y="297" width="860.002" height="2576.87" rx="233.5" transform="rotate(65.7118 2574 297)" fill="url(#paint0_linear_256_671)" fill-opacity="0.12"/>
+</g>
+<g filter="url(#filter1_f_256_671)">
+<rect x="598" y="587.594" width="467" height="508.495" rx="233.5" transform="rotate(-54.3739 598 587.594)" fill="url(#paint1_linear_256_671)" fill-opacity="0.21"/>
+</g>
+<path d="M1126.11 564.145L1127.47 506.138L1177.02 536.318L1126.11 564.145Z" stroke="#E7E7E7" stroke-width="3" stroke-linejoin="round"/>
+<path d="M1130.66 586.854L1132.1 525.383L1184.62 557.364L1130.66 586.854Z" stroke="#E7E7E7" stroke-linejoin="round"/>
+<path d="M2191.57 617.053C2192.39 616.549 2193.47 616.809 2193.98 617.634L2199.45 626.594L2208.41 621.121C2209.23 620.617 2210.31 620.877 2210.82 621.702C2211.32 622.527 2211.06 623.604 2210.23 624.108L2201.27 629.581L2206.75 638.542C2207.25 639.367 2206.99 640.444 2206.17 640.947C2205.34 641.451 2204.26 641.191 2203.76 640.366L2198.29 631.406L2189.33 636.879C2188.5 637.383 2187.42 637.123 2186.92 636.298C2186.42 635.473 2186.68 634.396 2187.5 633.892L2196.46 628.419L2190.99 619.458C2190.49 618.633 2190.75 617.556 2191.57 617.053Z" fill="#E7E7E7"/>
+<defs>
+<filter id="filter0_f_256_671" x="0.53418" y="72.3198" width="3151.89" height="2293.18" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="150" result="effect1_foregroundBlur_256_671"/>
+</filter>
+<filter id="filter1_f_256_671" x="390.292" y="0.291626" width="1100.76" height="1091.21" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="150" result="effect1_foregroundBlur_256_671"/>
+</filter>
+<linearGradient id="paint0_linear_256_671" x1="3004" y1="297" x2="3004" y2="2873.87" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FBA81C" stop-opacity="0.4"/>
+<stop offset="1" stop-color="#E05688" stop-opacity="0.15"/>
+</linearGradient>
+<linearGradient id="paint1_linear_256_671" x1="831.5" y1="587.594" x2="831.5" y2="1096.09" gradientUnits="userSpaceOnUse">
+<stop stop-color="#5454D4"/>
+<stop offset="1" stop-color="#5454D4" stop-opacity="0.42"/>
+</linearGradient>
+</defs>
+</svg>
